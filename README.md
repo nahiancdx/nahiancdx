@@ -65,7 +65,7 @@ interface IUserFlow
 
 -   Businesses tired of "more traffic, same results"
 -   Teams needing **conversion-focused engineering**
--   Founders optimizing **booking, lead gen, or SaaS funnels**
+-   Founders optimizing **booking, lead gen or SaaS funnels**
 -   Agencies that want **technical CRO depth, not just design tweaks**
 
 ------------------------------------------------------------------------
