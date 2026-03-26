@@ -25,17 +25,15 @@ Think:\
 
 | Tech Area | Stack | 
 |-----------------|-----------------------------------------------------------------------| 
-| **Languages** | `C#`, `Java`, `Python`, `php`, `Js`, `Ts` | 
-| **Frontend** | Angular Nuxt3 | 
-| **Backend** | .NET Web API NestJS FastAPI | 
-| **WordPress** | Builders Themes Plugins Custom Code | 
-| **Database** | MSSQL MySQL MongoDB Postgres | 
-| **ORM** | EF Core Dapper Typegoose TypeORM | 
-| **Automation** | Selenium Playwright Crawlee | 
-| **Scripting** | powershell bash python | 
-| **Testing** | xUnit NUnit | 
-| **DevOps** | Git GitHub DigitalOcean | 
-| **IDE/Code Editor** | VSCode Visual Studio Rider IntelliJ | 
+| **Languages** | `C#` `Java` `Python` `php` `Js` `Ts` | 
+| **Frontend** | `Angular` `Nuxt3` | 
+| **Backend** | `.NET`  `NestJS` `FastAPI` | 
+| **WordPress** | `Builders` `Themes` `Plugins` `Custom Solutions` | 
+| **Database** | `MSSQL` `MySQL` `Postgres` | 
+| **Automation** | `Selenium` `Playwright` `Crawlee` | 
+| **Scripting** | `powershell` `bash` `python` | 
+| **Cloud** | `DigitalOcean` | 
+| **Editor** | `VSCode` `Visual Studio` `Rider` `IntelliJ` | 
 ---
 
 ## 🧪 Engineering Philosophy
