@@ -23,7 +23,7 @@ Think:\
 
 ## 🧰 Core Stack
 
-| Tech Area | Stack | 
+| Layer | Stack | 
 |-----------------|-----------------------------------------------------------------------| 
 | **Languages** | `C#` `Java` `Python` `php` `Js` `Ts` | 
 | **Frontend** | `Angular` `Nuxt3` | 
