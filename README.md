@@ -42,20 +42,20 @@ internal class Printer : IInkPrinter, ILaserPrinter
 ### 📊 GitHub Activity
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahiandev&theme=algolia&hide_border=true"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahiancdx&theme=algolia&hide_border=true"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/nahiandev">
-    <img width="430" src="https://github-readme-stats.vercel.app/api?username=nahiandev&show_icons=true&theme=algolia&count_private=true">
+  <a href="https://github.com/nahiancdx">
+    <img width="430" src="https://github-readme-stats.vercel.app/api?username=nahiancdx&show_icons=true&theme=algolia&count_private=true">
   </a>
-  <a href="https://github.com/nahiandev">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nahiandev&layout=compact&theme=algolia&langs_count=6" />
+  <a href="https://github.com/nahiancdx">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nahiancdx&layout=compact&theme=algolia&langs_count=6" />
   </a>
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=nahiandev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=nahiancdx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 ---
@@ -71,5 +71,5 @@ I work best with:
 
 ### 🔗 Find Me Online
 
-- 💼 [Hire on Upwork](https://www.upwork.com/freelancers/~01ded0be5baccfa296)  
-- 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/nahiandev)
+- 💼 [About me](https://nstack.co/about/)  
+- 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/nahiancdx/)
