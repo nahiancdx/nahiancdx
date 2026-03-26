@@ -38,8 +38,6 @@ Think:\
 | **IDE/Code Editor** | VSCode Visual Studio Rider IntelliJ | 
 ---
 
-------------------------------------------------------------------------
-
 ## 🧪 Engineering Philosophy
 
 ``` csharp
