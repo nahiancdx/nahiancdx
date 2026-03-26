@@ -1,75 +1,94 @@
-### 👋 Hey, I’m Nahian
+# 👋 Hey, I'm Nahian
 
-🚀 I'm a pragmatic **`Full Stack Developer`** with a **`backend-first mindset`**. I specialize in building scalable APIs, automating workflows, and crafting tools that solve real-world problems — not just ship features.
+🚀 I'm a **CRO-focused Full Stack Developer** who builds and optimizes
+digital systems where **code meets conversion**.
 
----
+I don't just ship features --- I **diagnose funnel leaks, remove
+friction, and engineer pages/APIs that improve measurable outcomes**
+(leads, bookings, conversions).
 
-### 🧠 My Core Stack & Tools
+------------------------------------------------------------------------
 
-| Tech Area       | Stack                                                                 |
-|-----------------|-----------------------------------------------------------------------|
-| **Languages**   | `C#` `Java` `Python` `php` `Js` `Ts`                                |
-| **Frontend**   | `Angular` `Nuxt3`                                |
-| **Backend**  | `.NET Web API` `NestJS` `FastAPI`                          |
-| **WordPress**   | `Builders` `Themes` `Plugins` `Custom Code`                                     |
-| **Database**   | `MSSQL` `MySQL` `MongoDB` `Postgres`                                           |
-| **ORM**        | `EF Core` `Dapper` `Typegoose` `TypeORM`                                     |
-| **Automation**  | `Selenium` `Playwright` `Crawlee`                       |
-| **Scripting**   | `powershell` `bash` `python`                                          |
-| **Testing**     | `xUnit` `NUnit`                                                      |
-| **DevOps**      | `Git` `GitHub` `DigitalOcean`                              |
-| **IDE/Code Editor**      | `VSCode` `Visual Studio` `Rider` `IntelliJ`               |
+## 🧠 What I Do
 
----
+-   Break down **user journeys → identify drop-off points**
+-   Build **high-performance web apps, APIs, and automation systems**
+-   Optimize **landing pages, booking flows, and conversion funnels**
+-   Turn "traffic" into **structured, trackable revenue systems**
 
-### 🧪 Code That Teaches
+Think:\
+👉 Developer + CRO strategist + systems thinker in one loop
 
-```csharp
-// Clear interface segregation to avoid ambiguity
-interface IInkPrinter { void Print(string doc); }
-interface ILaserPrinter { void Print(string doc); }
+------------------------------------------------------------------------
 
-internal class Printer : IInkPrinter, ILaserPrinter
+## 🧰 Core Stack
+
+  -----------------------------------------------------------------------
+  Layer                               Stack
+  ----------------------------------- -----------------------------------
+  **Languages**                       C# · Java · Python · PHP ·
+                                      JavaScript · TypeScript
+
+  **Frontend**                        Angular · Nuxt 3
+
+  **Backend**                         .NET Web API · NestJS · FastAPI
+
+  **CRO / Web Systems**               Landing pages · Funnels · A/B
+                                      testing logic · Analytics
+                                      integration
+
+  **WordPress**                       Custom themes · Plugins · Headless
+                                      setups
+
+  **Databases**                       MSSQL · MySQL · PostgreSQL ·
+                                      MongoDB
+
+  **ORMs**                            EF Core · Dapper · TypeORM ·
+                                      Typegoose
+
+  **Automation**                      Playwright · Selenium · Crawlee
+
+  **DevOps**                          Git · GitHub · DigitalOcean
+  -----------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+## 🧪 Engineering Philosophy
+
+``` csharp
+// If a system doesn't convert, it's incomplete — no matter how "clean" the code is.
+
+interface IUserFlow
 {
-    private void Print(string doc) { /* logic ambiguity for both printers */ } // ❌
-    private void IInkPrinter.Print(string doc) { /* ink logic */ } // ✅
-    private void ILaserPrinter.Print(string doc) { /* laser logic */ } // ✅
+    void ReduceFriction();
+    void IncreaseConversion();
+    void MeasureDropOff();
 }
 ```
 
----
+------------------------------------------------------------------------
 
-### 📊 GitHub Activity
+## 📊 What I Optimize For
 
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahiancdx&theme=algolia&hide_border=true"/>
-</p>
+-   Conversion Rate (CRO)
+-   Funnel efficiency
+-   Performance & latency
+-   Maintainability of systems that scale
+-   Data-driven decision loops
 
-<p align="center">
-  <a href="https://github.com/nahiancdx">
-    <img width="430" src="https://github-readme-stats.vercel.app/api?username=nahiancdx&show_icons=true&theme=algolia&count_private=true">
-  </a>
-  <a href="https://github.com/nahiancdx">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nahiancdx&layout=compact&theme=algolia&langs_count=6" />
-  </a>
-</p>
+------------------------------------------------------------------------
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=nahiancdx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
+## 🤝 I Work Best With
 
----
+-   Businesses tired of "more traffic, same results"
+-   Teams needing **conversion-focused engineering**
+-   Founders optimizing **booking, lead gen, or SaaS funnels**
+-   Agencies that want **technical CRO depth, not just design tweaks**
 
-### 🤝 Let’s Collaborate
+------------------------------------------------------------------------
 
-I work best with:
-- Solopreneurs looking to **automate manual workflows**
-- Teams needing **clean API design**
-- Clients who value **performance and maintainability**
+## 🔗 Find Me Online
 
----
-
-### 🔗 Find Me Online
-
-- 💼 [About me](https://nstack.co/about/)  
-- 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/nahiancdx/)
+-   💼 [About](https://nstack.co/about/)
+-   🔗 [LinkedIn](https://www.linkedin.com/in/nahiancdx/)
+-   🔗 [X](https://x.com/nahiancdx)
