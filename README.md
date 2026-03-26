@@ -3,7 +3,7 @@
 🚀 I'm a **CRO-focused Full Stack Developer** who builds and optimizes
 digital systems where **code meets conversion**.
 
-I don't just ship features --- I **diagnose funnel leaks, remove
+I don't just ship features. I **diagnose funnel leaks, remove
 friction, and engineer pages/APIs that improve measurable outcomes**
 (leads, bookings, conversions).
 
@@ -23,33 +23,7 @@ Think:\
 
 ## 🧰 Core Stack
 
-  -----------------------------------------------------------------------
-  Layer                               Stack
-  ----------------------------------- -----------------------------------
-  **Languages**                       C# · Java · Python · PHP ·
-                                      JavaScript · TypeScript
-
-  **Frontend**                        Angular · Nuxt 3
-
-  **Backend**                         .NET Web API · NestJS · FastAPI
-
-  **CRO / Web Systems**               Landing pages · Funnels · A/B
-                                      testing logic · Analytics
-                                      integration
-
-  **WordPress**                       Custom themes · Plugins · Headless
-                                      setups
-
-  **Databases**                       MSSQL · MySQL · PostgreSQL ·
-                                      MongoDB
-
-  **ORMs**                            EF Core · Dapper · TypeORM ·
-                                      Typegoose
-
-  **Automation**                      Playwright · Selenium · Crawlee
-
-  **DevOps**                          Git · GitHub · DigitalOcean
-  -----------------------------------------------------------------------
+| Tech Area | Stack | |-----------------|-----------------------------------------------------------------------| | **Languages** | C# Java Python php Js Ts | | **Frontend** | Angular Nuxt3 | | **Backend** | .NET Web API NestJS FastAPI | | **WordPress** | Builders Themes Plugins Custom Code | | **Database** | MSSQL MySQL MongoDB Postgres | | **ORM** | EF Core Dapper Typegoose TypeORM | | **Automation** | Selenium Playwright Crawlee | | **Scripting** | powershell bash python | | **Testing** | xUnit NUnit | | **DevOps** | Git GitHub DigitalOcean | | **IDE/Code Editor** | VSCode Visual Studio Rider IntelliJ | ---
 
 ------------------------------------------------------------------------
 
