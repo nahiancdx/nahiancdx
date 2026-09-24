@@ -1,11 +1,8 @@
 # 👋 Hey, I'm Nahian
 
-🚀 I'm a **CRO-focused Full Stack Developer** who builds and optimizes
-digital systems where **code meets conversion**.
+🚀 **Web Dev** | **WordPress Engineer** | **Custom Development** | **Performance Tuning** | **Conversion Audit**
 
-I don't just ship features. I **diagnose funnel leaks, remove
-friction, and engineer pages/APIs that improve measurable outcomes**
-(leads, bookings, conversions).
+I build custom WordPress websites from scratch - development, server migration, and performance tuning. Whether it's a plain vanilla theme, a complex e-commerce store, or a custom API integration, I handle the full cycle.
 
 ------------------------------------------------------------------------
 
@@ -72,6 +69,6 @@ interface IUserFlow
 
 ## 🔗 Find Me Online
 
--   💼 [About](https://nstack.co/about/)
+-   🔗 [Facebook](https://www.facebook.com/nahiancdx/)
 -   🔗 [LinkedIn](https://www.linkedin.com/in/nahiancdx/)
 -   🔗 [X](https://x.com/nahiancdx)
